@@ -1,13 +1,13 @@
 <div align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3A0CA3&center=true&vCenter=true&width=435&lines=HELLO%2C+GUYS!;I'm+Maria+Luisa+Souza" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DE2E7&center=true&vCenter=true&width=435&lines=HELLO%2C+GUYS!;I'm+Maria+Luisa+Souza" alt="Typing SVG" />
 </a>
   <br>
   <div> ∘₊✧─── ⋅ ✧ ⋅ ───✧₊∘ </div>
 </div>
 
 <div>
-  <img align="right" width="31%" src="https://i.pinimg.com/originals/c4/ff/31/c4ff310ed4399ebe2c85ffc52ad5eeab.gif" />
+  <img align="right" width="22%" src="https://play-lh.googleusercontent.com/OwOFz-Yw8pp4jng3MdZbuZGrNqxqyNmUEmr-MO1Nbutqn43mBpW5mFVXlapcz9KbSOvxcRHlAbuX4icWXxhyhA" />
 </div>
 
 ### Seja bem-vindo! 
@@ -26,7 +26,6 @@ Aqui você encontra meus projetos, aprendizados e desafios.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
 <img src="https://img.shields.io/badge/Python-EC4899?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" height="30" alt="java logo" />
-<img src="https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgres logo" />
 </div>
 
 <h4 align="left"> Estudando no momento: </h4>
@@ -57,9 +56,6 @@ Aqui você encontra meus projetos, aprendizados e desafios.
 
 <br>
 
-  <div>
-  <img align="left" width="10%" alt="Stars" src="https://i.pinimg.com/originals/e8/f6/09/e8f609c31ce4ba9b3c1dcecfa96f3691.gif"/>
-</div>
 
 <div align="left">
   <h4> Entre em contato comigo! </h4>
